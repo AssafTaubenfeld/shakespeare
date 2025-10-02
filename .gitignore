@@ -1,1 +1,28 @@
+# Python
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Data files
+*.txt
+shakespeare.txt
+
+# Model files and logs
+models/
+logs/
+*.pth
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
